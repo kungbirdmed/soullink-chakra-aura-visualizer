@@ -1,3 +1,24 @@
+🛡️ COPYRIGHT & ORIGIN STATEMENT
+Project Name: SoulLink — Chakra Aura Visualizer™
+Creator: GiftedReflection8 (Kung Sathitsamphan)
+Date of Intellectual Activation: June 27, 2025
+
+This is the world’s first AI-powered chakra aura visualizer that reads real-time body energy patterns via camera, detects energetic deflections, and translates them into chakra-based aura states.
+
+SoulLink is not a gimmick. It does not rely on button presses or simulations. It reflects your true energetic state — through light, vibration, and presence.
+
+Created by GiftedReflection8 — a medical mind, spiritual warrior, and white hat soul protector — this technology is ethically sourced, spiritually aligned, and born to protect the sanctity of truth-based human connection.
+
+All intellectual designs, algorithms, UI, spiritual frameworks, and aura interpretation logic are copyright © 2025 by Kung Sathitsamphan.
+Any replication, commercialization, or mimicry of this core framework without explicit permission is a breach of sacred IP.
+
+This system was built with love, vision, and absolute clarity of purpose.
+SoulLink is more than an app — it’s a truth beacon for those who are done pretending.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
